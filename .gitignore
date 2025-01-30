@@ -72,3 +72,7 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+/MyProject2/Saved/Logs/*.log
+/MyProject2/Intermediate/ShaderAutogen/
+
