@@ -78,4 +78,6 @@ DerivedDataCache/*
 
 /MyProject2/Saved/Telemetry/Telemetry.json
 
+/MyProject2/Saved/Logs/*.log
+
 
