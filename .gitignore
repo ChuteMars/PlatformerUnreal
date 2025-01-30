@@ -76,3 +76,6 @@ DerivedDataCache/*
 /MyProject2/Saved/Logs/*.log
 /MyProject2/Intermediate/ShaderAutogen/
 
+/MyProject2/Saved/Telemetry/Telemetry.json
+
+
